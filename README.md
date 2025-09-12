@@ -1,2 +1,2 @@
 # Practicas-Java
-Ejercicios hechos en java
+Ejercicios realizados en java a lo largo del ciclo de Desarrrollo de Aplicaciones Web
